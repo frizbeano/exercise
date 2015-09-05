@@ -1,1 +1,6 @@
-# exercise
+# Exercises
+
+Exercises: ReverseSentence
+Java
+
+
