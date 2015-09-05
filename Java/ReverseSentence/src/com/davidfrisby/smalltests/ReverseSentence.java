@@ -23,7 +23,7 @@ public final class ReverseSentence {
 		int indexCurrentPosition = 0;
 
 		for (int i = indexMarkerBack - 1; i >= -1; --i) {
-			if (i == -1 || inputArray[i] == emptySpaceChar) {// {
+			if (i == -1 || inputArray[i] == emptySpaceChar) {
 				indexMakerFront = i + 1;
 
 				for (int j = indexMakerFront; j < indexMarkerBack; ++j) {
