@@ -43,10 +43,10 @@ public final class ReverseSentence {
 	
 	
 	/**
-	 * Reverse an array of chars.
+	 * Reverse a String.
 	 * Example: STRING becomes GNIRTS
 	 * 
-	 * @param inputString - The char array 
+	 * @param inputString - The string
 	 * @return	the reverse of the input inputString
 	 */
 	public static String reverseSentence(final String inputString) {
